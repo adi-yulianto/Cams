@@ -8,7 +8,7 @@ from selenium.webdriver.common.keys import Keys
 
 #PARAMETER
 
-url=""
+url="https://cams.collega.co.id/"
 user=""
 passw=""
 
@@ -34,7 +34,7 @@ WebDriverWait(driver, 60).until(EC.element_to_be_clickable((By.CLASS_NAME, "btn.
 driver.find_element(By.XPATH,"//*[text()='My Activities']").click()
 
 Input=[TextSenin,TextSelasa,TextRabu,TextKamis,TextJumat]
-Tgl=['2024-01-29','2024-01-30','2024-01-31','2024-02-01','2024-02-02']
+Tgl=['2024-08-05','2024-08-06','2024-08-07','2024-08-08','2024-08-09']
 for x,y in zip(Tgl,Input):
 
     time.sleep(5)

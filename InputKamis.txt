@@ -1,0 +1,18 @@
+	B. LAPORAN PEKERJAAN
+	 1. Estatement Bank Sumut
+		a. Monitoring
+		
+	 2. Support Environment Development Dedicated Sumut
+		a. Monitoring
+		b. Support Pengetesan di envi dedicated
+		
+	 3. UAT E-Mobile
+		a. Support Pengetesan E-Mobile
+		
+	 4. UAT Multipolar
+		a. Support Pengetesan Multipolar
+		
+	 7. Support Operasional
+		a. Support Operasional Bank Sumut Case dan Permintaan Data
+
+	 8. UAT SIPD dengan Kemendagri On Site
